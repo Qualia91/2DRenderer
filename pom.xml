@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.nick.wood.rendering</groupId>
-    <artifactId>2DRenderer</artifactId>
+    <artifactId>Renderer2D</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
@@ -78,7 +78,7 @@
         <repository>
             <id>github</id>
             <name>Github Qualia91 Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/qualia91/2DRenderer</url>
+            <url>https://maven.pkg.github.com/qualia91/Renderer2D</url>
         </repository>
     </distributionManagement>
     
